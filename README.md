@@ -13,7 +13,7 @@ A simple, browser-based password generator built with HTML, CSS and JavaScript.
 
 ## 🖼️ Preview
 
-![Music Player Preview](preview.png)
+![](images/Screenshot.png)
 
 ---
 
