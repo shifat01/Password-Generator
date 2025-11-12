@@ -4,11 +4,11 @@ A simple, browser-based password generator built with HTML, CSS and JavaScript.
 ---
 ## 🚀 Demo
 
-### 🌐 Live demo: [click here](https://shifat01.github.io/Music-Player/)
+### 🌐 Live demo: [click here](https://shifat01.github.io/Password-Generator/)
 
 #### or, 
 
-### link: https://shifat01.github.io/Music-Player/
+### link: https://shifat01.github.io/Password-Generator/
 ---
 
 ## 🖼️ Preview
